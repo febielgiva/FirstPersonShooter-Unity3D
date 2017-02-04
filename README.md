@@ -18,8 +18,8 @@ Game Description
 Game Overview
 --------------
 
-|Genre:|	FPS|
-|:-------------:|:-----:|
+|Genre|	FPS|
+|:---------|:-----|
 |Player:	|Single|
 |Game Elements:	|shooting, collecting hearts, reaching the target , killing the enemy , jumping, running, walking , changing powers , |changing player and enemy settings, teleporting |
 |Game Content:	|Drama| 
