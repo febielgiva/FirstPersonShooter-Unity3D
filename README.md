@@ -18,19 +18,20 @@ Game Description
 Game Overview
 --------------
 
-Genre:	FPS
-Player:	Single
-Game Elements:	shooting, collecting hearts, reaching the target , killing the enemy , jumping, running, walking , changing powers , changing player and enemy settings, teleporting 
-Game Content:	Drama 
-Theme:	Fantasy
-Style:	Manga,
-Game Sequence:	Planning to implement(Linear- Storylines)
-Player Immersion:	Tactical, Strategy, Physical,Mental
-Technical From:	Basically this is 3D graphics with fully animations with contorls
-View:	First person as well as third person view available
-SW Platform:	C#
-HW Platform:	PC
-Audience	High school students,  adults 
+|Genre:|	FPS|
+|:-------------:| -----:|
+|Player:	|Single|
+|Game Elements:	|shooting, collecting hearts, reaching the target , killing the enemy , jumping, running, walking , changing powers , |changing player and enemy settings, teleporting |
+|Game Content:	|Drama| 
+|Theme:	|Fantasy|
+|Style:	|Manga,|
+|Game Sequence:	|Planning to implement(Linear- Storylines)|
+|Player Immersion:	|Tactical, Strategy, Physical,Mental|
+|Technical From:	|Basically this is 3D graphics with fully animations with contorls|
+|View:	|First person as well as third person view available|
+|SW Platform:	|C#|
+|HW Platform:	|PC|
+|Audience	|High school students,  adults |
 
 
 Game Features
