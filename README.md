@@ -42,26 +42,26 @@ GUI
 
 On the Main Screen 
 **Player’s Health- **
-•	I used a Slider to display the Player’s health. 
-•	It will be in the top middle of the screen always.
-•	Initially the Player has full health 
-•	The Player’s health will decrease when the enemy hits the player (decrease by 1)
-•	The Player’s health will increase when the play grabs the heart or star which is available in the two rooms. The heart or star once grabbed, it will disappear and appears after some time again in the same location. (increase by 5)
+*	I used a Slider to display the Player’s health. 
+*	It will be in the top middle of the screen always.
+*	Initially the Player has full health 
+*	The Player’s health will decrease when the enemy hits the player (decrease by 1)
+*	The Player’s health will increase when the play grabs the heart or star which is available in the two rooms. The heart or star once grabbed, it will disappear and appears after some time again in the same location. (increase by 5)
 
 **Enemy Hit count-**
-•	I used a text to display the Score of the Player.
-•	It will be displayed at the top left corner of the screen on top of the cup image.
-•	The count is increased if the player hits the enemy and it reacts to the hit ie when it dies.
+*	I used a text to display the Score of the Player.
+*	It will be displayed at the top left corner of the screen on top of the cup image.
+*	The count is increased if the player hits the enemy and it reacts to the hit ie when it dies.
 
 **Room ID**
-•	I used a text box to display the Room ID.
-•	The display is present in the bottom left corner of the screen
-•	On teleporting to the room ID changes
+*	I used a text box to display the Room ID.
+*	The display is present in the bottom left corner of the screen
+*	On teleporting to the room ID changes
 
 **Setting **
-•	I used a button for opening the settings menu
-•	It is located at the top right corner of the scene
-•	On clicking on the settings button - a pop up screen is displayed
+*	I used a button for opening the settings menu
+*	It is located at the top right corner of the scene
+*	On clicking on the settings button - a pop up screen is displayed
 It has the following
 1.	Player’s Name -text box to get the player’s name.
 2.	Slider to Change the Player’s Speed 
@@ -83,13 +83,13 @@ Only if the mission of that level is successfully a pop up is displayed automati
 If the mission is not completed then a pop stating the mission target is displayed.
 
 Drop Down 
-•	The options are displayed in the dropDown to select your answer
+*	The options are displayed in the dropDown to select your answer
 Submit Button
-•	To submit the answer, click on the submit button
-•	If the answer is right, then you will be teleported accordingly 
-•	If the answer is wrong a popup is display with the message “Oops wrong answer”. In the Pop Up on clicking on the Continue button you can continue playing
+*	To submit the answer, click on the submit button
+*	If the answer is right, then you will be teleported accordingly 
+*	If the answer is wrong a popup is display with the message “Oops wrong answer”. In the Pop Up on clicking on the Continue button you can continue playing
 Quit
-•	To close the Question pop up click on the Quit button
+*	To close the Question pop up click on the Quit button
 Keystrokes GUI
 	ESC – A pop up to Save,Resume,Quit the game 
 	M – To know the current mission 
@@ -135,9 +135,9 @@ If the user health is 0 then that level starts from the first automatically only
 Resources
 ------------------
 
-•	Animation character and animations from the below link
+*	Animation character and animations from the below link
 https://www.mixamo.com
-•	Models from the below link
+*	Models from the below link
 http://tf3dm.com/
-•	Skybox
+*	Skybox
 http://www.custommapmakers.org/
