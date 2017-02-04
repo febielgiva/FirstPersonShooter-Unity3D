@@ -4,20 +4,20 @@
 [Magical Mystic Shooter]
 [Febi Elgiva Kennedy]
 
-1.	Download 
+Download
+------------------
 Full project link
 https://drive.google.com/open?id=0B0daU37erFBqOHVSdGpGbzNtYlk
 
-2.	Game Description
+Game Description
+------------------
 
 Introduction
 	My environment is an old ancient temple in a village where the player is out to unleash the hidden secrets, treasures of a powerful king ruled 50 years ago. The village believes that the king’s army is immoral and trying to protect the treasure and waiting for the right time to raise the king back from death. The player have to kill the king’s army with the magical powers and should reach the destination to destroy the king’s tomb in order to win the game.
 
 Game Overview
+--------------
 
-Complete the table.
-
-Game Description	
 Genre:	FPS
 Player:	Single
 Game Elements:	shooting, collecting hearts, reaching the target , killing the enemy , jumping, running, walking , changing powers , changing player and enemy settings, teleporting 
@@ -34,6 +34,7 @@ Audience	High school students,  adults
 
 
 Game Features
+------------------
 
 1)	implementation features of your game 
 
@@ -108,6 +109,7 @@ Enemy has the shooting, running, idle, dyeing animation. I have used NAV MESH  f
 
 
 2)	“how to play” your game.
+------------------
 
 WSAD – keys for up , down,left ,right movement
 Mouse left click – To shoot
@@ -130,6 +132,7 @@ Level 2 – The player should find the king and kill him in order to unleash a t
 If the user health is 0 then that level starts from the first automatically only the inventory items are preserved
 
 Resources
+------------------
 
 •	Animation character and animations from the below link
 https://www.mixamo.com
